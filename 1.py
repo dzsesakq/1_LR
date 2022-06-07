@@ -1,5 +1,5 @@
 a = input("write your name")
-print(s)
+print(a)
 b = input("write your surname")
 print(b)
 c = input("write your age")
